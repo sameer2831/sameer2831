@@ -18,7 +18,7 @@
 
 ### 🧠 About Me
 
-- 🎓 MS in Computer Science @ Syracuse University | CGPA: 3.33  
+- 🎓 MS in Computer Science @ Syracuse University  
 - 💼 Ex-Software Engineer @ Nihilent Ltd | Former Full Stack Intern @ MissPoppins Inc  
 - 💡 Passionate about **MERN stack**, **.NET**, **Cloud DevOps**, and **AI/ML**
 - 🌐 Built real-time shuttle systems, NLP models, and Android apps

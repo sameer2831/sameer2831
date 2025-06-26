@@ -3,6 +3,10 @@
 </p>
 <h1 align="center">Hi 👋, I'm Sameer Balkawade</h1>
 <h3 align="center">A Software Engineer building scalable, user-centric applications from end-to-end.</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Cloud+Engineer;AI%2FML+Explorer;Open+Source+Contributor&center=true&width=500&height=45" />
+</h3>
+
 
 <p align="center">
  <a href="https://sameer2831.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-282A36?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
@@ -127,7 +131,6 @@ My expertise lies in the **MERN stack** and **.NET framework**, but I love explo
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sameer2831&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer2831&layout=compact&langs_count=8&theme=dracula" />
 </p>
 <p align="center">

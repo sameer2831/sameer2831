@@ -2,10 +2,10 @@
   <img src="https://github.com/user-attachments/assets/4641bba6-7fc4-4f79-89d1-6be50807723e" alt="Sameer Balkawade | Full Stack Developer Banner" />
 </p>
 <h1 align="center">Hi 👋, I'm Sameer Balkawade</h1>
-<h3 align="center">A Software Engineer building scalable, user-centric applications from end-to-end.</h3>
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Cloud+Engineer;AI%2FML+Explorer;Open+Source+Contributor&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Full+Stack+Developer;AI%2FML+Explorer;Mobile+Application+Developer;Backend%2FFrontend+Developer;Cloud+DevOps+Enthusiast&center=true&width=600&height=45" />
 </h3>
+
 
 
 <p align="center">

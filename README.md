@@ -35,6 +35,27 @@ My expertise lies in the **MERN stack** and **.NET framework**, but I love explo
 <table>
   <tr>
     <td width="50%">
+      <h4 align="center"><a href="#">🏀 Basketball PRIME Game Simulator</a></h4>
+      <p>An interactive React app that lets users simulate NBA games and series using real player stats, featuring quarter timers, top performers, animated charts, and live MVP tracking.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h4 align="center"><a href="#">💰 WealthMintra – Finance Tracker</a></h4>
+      <p>A modern full-stack financial tracking web app built with .NET Core, React, and SQL Server. It helps users manage income & expenses, visualize spending trends, and maintain monthly budgets with rich, interactive dashboards.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
       <h4 align="center"><a href="#">🚌 Shuttle Ride Management System</a></h4>
       <p>A scalable MERN stack application for real-time shuttle tracking, featuring JWT & role-based authentication, live map updates via WebSockets, and an intuitive user interface.</p>
       <p align="center">

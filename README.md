@@ -35,7 +35,7 @@ My expertise lies in the **MERN stack** and **.NET framework**, but I love explo
 <table>
   <tr>
     <td width="50%">
-      <h4 align="center"><a href="#">🏀 Basketball PRIME Game Simulator</a></h4>
+      <h4 align="center"><a href="https://github.com/sameer2831/Basketball-PRIME-Game-Simulator">🏀 Basketball PRIME Game Simulator</a></h4>
       <p>An interactive React app that lets users simulate NBA games and series using real player stats, featuring quarter timers, top performers, animated charts, and live MVP tracking.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -45,7 +45,7 @@ My expertise lies in the **MERN stack** and **.NET framework**, but I love explo
       </p>
     </td>
     <td width="50%">
-      <h4 align="center"><a href="#">💰 WealthMintra – Finance Tracker</a></h4>
+      <h4 align="center"><a href="https://github.com/sameer2831/FinancialManagementSystem">💰 WealthMintra – Finance Tracker</a></h4>
       <p>A modern full-stack financial tracking web app built with .NET Core, React, and SQL Server. It helps users manage income & expenses, visualize spending trends, and maintain monthly budgets with rich, interactive dashboards.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -79,7 +79,7 @@ My expertise lies in the **MERN stack** and **.NET framework**, but I love explo
   </tr>
   <tr>
     <td width="50%">
-      <h4 align="center"><a href="https://www.irjet.net/archives/V8/i7/IRJET-V8I7142.pdf">🧬 Skin Lesion Data Augmentation (DCGAN)</a></h4>
+      <h4 align="center"><a href="https://github.com/sameer2831/DCGAN_skin_lession">🧬 Skin Lesion Data Augmentation (DCGAN)</a></h4>
       <p>Published research on using Deep Convolutional GANs to generate synthetic medical images of skin lesions, successfully increasing a CNN classifier's accuracy by 9%.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />

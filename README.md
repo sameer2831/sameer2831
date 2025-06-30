@@ -55,6 +55,8 @@ My expertise lies in the **MERN stack** and **.NET framework**, but I love explo
         <img src="https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chartdotjs&logoColor=white" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h4 align="center"><a href="#">🚌 Shuttle Ride Management System</a></h4>
       <p>A scalable MERN stack application for real-time shuttle tracking, featuring JWT & role-based authentication, live map updates via WebSockets, and an intuitive user interface.</p>
